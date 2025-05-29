@@ -52,7 +52,7 @@ I enjoy exploring new ideas and seeking out challenges that help me grow.
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/izuchukwu-tony-9aa592218/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izuchukwu-tony-9aa592218/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izuchukwuonuoha6@gmail.com)
 
 ### 🤝 Let's build something amazing together!
